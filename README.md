@@ -15,5 +15,5 @@ Objective of this application is to provide a platform for students. Student,who
 * [Monika Singh](https://github.com/monikasingh20)
 * [Satyam Kumar](https://github.com/SatyamK23)
 * [Shubham Poddar](https://github.com/shubham6966)
-* Rajat Soni
-* Kshitij Khinchi
+* [Rajat Soni](https://github.com/Rajat102)
+* [Kshitiz Khinchi](https://github.com/kshitizk1796)
